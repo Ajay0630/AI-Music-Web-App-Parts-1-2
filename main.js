@@ -2,8 +2,8 @@ var harrypotterremix;
 var peterpansong;
 
 function preload() {
-    harrypotterremix = loadSound("AI MUSIC/music.mp3");
-    peterpansong = loadSound("AI MUSIC/music2.mp3")
+    harrypotterremix = loadSound("music.mp3");
+    peterpansong = loadSound("music2.mp3")
 }
 
 function setup() {
