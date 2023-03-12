@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+body {
+    background-size: cover;
+}
+
+.heey {
+    font-family: 'Permanent Marker', cursive;
+}
+.title {
+    letter-spacing: 5px;
+}
+
+canvas {
+    border: 5px double yellow;
+    box-shadow: 10px 10px 10px gold;
+}
